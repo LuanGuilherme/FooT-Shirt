@@ -1,0 +1,19 @@
+body {
+	background-image: url("https://images.adsttc.com/media/images/5398/b46f/c07a/803d/f400/0643/large_jpg/schlaich_bergermann_und_partner_Estadio_Maracana_6888_2880px.jpg?1402516583");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+button .MuiButtonBase-root {
+	color: white;
+}
+
+button .MuiButtonBase-root: hover {
+	color: red;
+}
+
+.MuiFormControl-root {
+	background-color: #fff;
+	border-radius: 4px;
+	padding-left: 1em;
+}

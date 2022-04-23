@@ -6,14 +6,14 @@ import Cart from './Cart';
 const Header = () => {
     return(
         <Grid container direction="row" justify="space-between" alignItems="center" xs={12}>
-            <Typography variant='h3'>
-                Dio Shopping
+            <Typography variant='h3' color="white">
+                FooT-Shirts
             </Typography>
             <Link to="/">
-                <Button color="primary">Home</Button>
+                <Button color="white">Página Inicial</Button>
             </Link>
             <Link to="/contato">
-                <Button color="primary">Contato</Button>
+                <Button color="white">Contato</Button>
             </Link>
             <Cart />   
 
